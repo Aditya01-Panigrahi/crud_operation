@@ -1,0 +1,11 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+}
+table{
+    width: 50%;
+    height: 50px;
+    margin: 0 auto;
+    border-collapse:separate;
+    color:blue;
+}
